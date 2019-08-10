@@ -4,7 +4,7 @@
 
 You can view the slides for the presentation in one of the following ways:
 
-1. Go to https://tjdraper.github.io/presentation-throwing-things-is-not-nice/presentation-slides.html where you can use your keyboard or click to navigate through the slides
+1. Go to https://tjdraper.github.io/throwing-things-is-not-nice/presentation-slides.html where you can use your keyboard or click to navigate through the slides
 2. Clone this repo and open `presentation-slides.html` in your browser.
 3. Download 1 or more slides in the `slides` directory in this repo.
 
